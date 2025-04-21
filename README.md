@@ -14,3 +14,6 @@ Welcome to **TickMate** – a minimal and eye-catching React To-Do app that help
 - Vite  
 - JavaScript  
 - Tailwind CSS
+
+## Demo
+- https://tickmate-chi.vercel.app/
